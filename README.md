@@ -5,3 +5,6 @@
 
 #### Check my [LinkedIn](https://www.linkedin.com/in/philippgoll/) to find out more about me and my professional background.
 ---
+<!---
+[![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=philippgoll&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/philippgoll?tab=repositories)
+-->
